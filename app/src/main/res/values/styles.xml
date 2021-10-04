@@ -1,0 +1,42 @@
+<resources>
+    <style name="style_Button_Circle">
+        <item name="android:background">@drawable/button_circle_five</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">32sp</item>
+    </style>
+    <style name="style_Button_Rectange">
+        <item name="android:background">@drawable/button_one</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">32sp</item>
+    </style>
+    <style name="style_Button_With_Border_Black">
+        <item name="android:background">@drawable/button_red_with_border_black</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">32sp</item>
+    </style>
+    <style name="style_Button_Elipse">
+        <item name="android:background">@drawable/button_elip</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">32sp</item>
+    </style>
+    <style name="style_TextView_Output">
+        <item name="textAppearanceBody1">?attr/textAppearanceBody1</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">26sp</item>
+    </style>
+    <style name="style_TextButton">
+        <item name="textAppearanceBody1">?attr/textAppearanceBody1</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">26sp</item>
+    </style>
+    <style name="style_Background_Layout">
+        <item name="android:background">@color/gray</item>
+    </style>
+
+</resources>
